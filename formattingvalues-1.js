@@ -4,43 +4,43 @@
   "items": [
     {
       "label": "Peter",
-      "value": 234.4
+      "value": 99
     },
     {
       "label": "Patrick",
-      "value": 232
+      "value": 98.5
     },
     {
       "label": "Jon",
-      "value": 230.45
+      "value": 97.0
     },
     {
       "label": "Clara",
-      "value": 220
+      "value": 96.5
     },
     {
       "label": "Tom",
-      "value": 215.578
+      "value": 96.3
     },
     {
       "label": "Sylvester",
-      "value": 200
+      "value": 96.1
     },
     {
       "label": "David",
-      "value": 195
+      "value": 96.0
     },
     {
       "label": "Matt",
-      "value": 190
+      "value": 95
     },
     {
       "label": "William",
-      "value": 185.679
+      "value": 95
     },
     {
       "label": "Rose",
-      "value": 182
+      "value": 94
     }
   ]
 }
