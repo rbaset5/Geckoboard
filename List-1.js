@@ -1,7 +1,7 @@
 [
   {
     "title": {
-      "text": "This weeks giveaway includes a $100 gift card to Red Lobsters"
+      "text": "This weeks giveaway includes ski lessons."
     },
     "label": {
       "name": "New!",
