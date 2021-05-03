@@ -1,9 +1,9 @@
 {
-  "item": 23,
+  "item": 234,
   "min": {
-    "value": 10
+    "value": 162
   },
   "max": {
-    "value": 30
+    "value": 350
   }
 }
