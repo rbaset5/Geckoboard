@@ -1,6 +1,6 @@
 {
   "x_axis": {
-    "labels": ["open", "pending", "solved", "closed"]
+    "labels": ["1 Star", "2 Star", "3 Star", "4 Star"]
   },
   "series": [
     {
