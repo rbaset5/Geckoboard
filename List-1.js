@@ -1,36 +1,18 @@
 [
   {
     "title": {
-      "text": "Chrome"
+      "text": "This weeks giveaway includes a $100 gift card to Red Lobsters"
     },
     "label": {
       "name": "New!",
       "color": "#ff2015"
     },
-    "description": "40327 visits"
+    "description": "$100 Gift Card - Red Lobsters"
   },
   {
     "title": {
-      "text": "Safari"
+      "text": "Congrtulations to Sherlene! for winning last weeks prize of a free pizza day from the place of her choice!"
     },
-    "description": "11577 visits"
-  },
-  {
-    "title": {
-      "text": "Firefox"
-    },
-    "description": "10296 visits"
-  },
-  {
-    "title": {
-      "text": "Internet Explorer"
-    },
-    "description": "3587 visits"
-  },
-  {
-    "title": {
-      "text": "Opera"
-    },
-    "description": "499 visits"
+    "description": "Sherlene! When you find out where, let us know! And, Congrats!"
   }
 ]
