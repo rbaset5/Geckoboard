@@ -1,18 +1,18 @@
 [
   {
     "title": {
-      "text": "This weeks giveaway includes ski lessons."
+      "text": "This weeks spend reach is $350 with a giveaway includes ski lessons for 5!"
     },
     "label": {
       "name": "New!",
       "color": "#ff2015"
     },
-    "description": "$100 Gift Card - Red Lobsters"
+    "description": "Ski Lessons for 5 - Lodge of your choice!"
   },
   {
     "title": {
-      "text": "Congrtulations to Sherlene! for winning last weeks prize of a free pizza day from the place of her choice!"
+      "text": "Congrtulations to Sherlene! For winning last weeks prize!"
     },
-    "description": "Sherlene! When you find out where, let us know! And, Congrats!"
+    "description": ""
   }
 ]
