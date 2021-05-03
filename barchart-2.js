@@ -1,10 +1,10 @@
 {
   "x_axis": {
-    "labels": ["open", "pending", "solved", "closed"]
+    "labels": ["Peter", "Patrick", "Jon", "Clara"]
   },
   "series": [
     {
-      "data": [45, 4, 251, 554]
+      "data": [99, 98.5, 97, 96.5]
     }
   ]
 }
