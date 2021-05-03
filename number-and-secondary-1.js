@@ -1,8 +1,8 @@
 {
   "item": [
     {
-      "value": 5723,
-      "text": "Total paying customers"
+      "value": $350,
+      "text": "For your chance at 5 ski lessons at the resort of your choice."
     }
   ]
 }
